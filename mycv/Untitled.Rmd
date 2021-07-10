@@ -1,0 +1,123 @@
+---
+name: John King'athia
+surname: Karuitha
+position: "Lecturer in Finance"
+address: "Karatina University, School of Business, P.O. Box 1957-10101, Karatina, Kenya."
+phone: +254 769 552 912
+www: "orcid.org/0000-0002-8204-7034" 
+email: "jkaruitha@karu.ac.ke"
+twitter: kingzz2005
+github: Karuitha
+linkedin: karuitha
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::awesomecv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# Objective
+I like working with data and embrace continuous learning and looking for a position in data analytics and business research and analysis. Typical roles include forecasting, data visualization, developing dashboards, and analyzing data for A/B tests that call for both technical and communication skills.
+
+# Key Skills
+
+ - Financial management & donor grants management & reporting - USAID / EU/ AMREF.
+ - Research methods in business (see `www.orcid.org/0000-0002-8204-7034`).
+ - Data analysis in R (see `https://github.com/Karuitha?tab=repositories`).
+ - Data analysis in Ms Excel, Eviews and Stata with SQL basics. 
+ - Creative with strong verbal & written communication skills (`see writing samples below`). 
+ - Analytical problem-solver with good people skills & a strong work ethic. 
+ 
+# Experience
+
+**2012-Current: Lecturer in Finance, Karatina University, Karatina, Kenya (<www.karu.ac.ke>).**
+
+- Collaborate in a team teaching finance and business statistics and developing curricula.
+- Works in a team that so far, has written 3 articles in refereed journals.
+- Coordinated examinations for 2 years and acted as a head of department severally.
+  
+**2009-2010: Project Manager, Environment and Livelihoods, NECLI- CBO, Laikipia, Kenya.**
+
+- Led the Implementation of a US$200,000 2 year European Union (EU) and Danish Development Agency (DANIDA) environmental conservation and livelihoods improvement project. 
+- Drew project financial and narrative reports and budgets in EU/DANIDA guidelines.
+
+**2008-2009: Finance Officer, Twana Twitu Cares, Nairobi/ Mwingi, Kenya (<www.twanatwitucares.org>).**
+
+- Managed finances for a US$150,000 USAID/AED and AMREF funded HIV/AIDS Orphans & Vulnerable Children (OVC) support project.
+- Drew project financial reports and budgets following USAID/AED/AMREF reporting formats.
+- Automated accounting and inventory management systems.
+
+# Professional Certifications
+
+```{r}
+library(tibble)
+tribble(
+  ~ Certification, ~ Year, ~ Institution,
+  "Emory University (On Coursera)", "2021", "Reproducible Templates for Analysis and Dissemination",
+  "Harvard University (HarvardX on EdX)", "2021", "Professional Certificate in Data Science (Using R).",
+  "Massachusetts Institute of Technology (MITx on EdX)", "2020", "The Analytics Edge - Data Analysis (Using R).",
+  "Vision Institute of Professionals", "2009", "Certified Information Systems Auditor (CISA) - Non-practicing.",  "Vision Institute of Professionals", "2008", "Certified Public Accountant of Kenya."
+  
+) %>% 
+  detailed_entries(Certification, Year, Institution)
+```
+ 
+# Professional Memberships
+
+- 2015 - Current: Information Systems Audit and Control Association (ISACA) Kenya chapter.
+
+\newpage
+# Education
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where, ~ website,
+  "University of the Witwatersrand, Johannesburg.", "2017- Current.", "PhD in Financial Economics (ongoing).", "Johannesburg, South Africa.", "www.wits.ac.za",
+  "Egerton University.", "2004-06.", "Master of Business Administration in Finance.", "Nakuru, Kenya.", "www.egerton.ac.ke", "Egerton University.", "1997-2001.", "Bachelor of Education with Economics & Math.", "Nakuru, Kenya.", "www.egerton.ac.ke"
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+# Awards and Prizes
+
+- 2020: Africa Economic Research Consortium (AERC) research grant. (US$ 3,000).
+- 2019: Banking Sector Education & Training Authority (BANKSETA) research grant. (US$10,000).
+- 2018: Bradlow Foundation research grant. (US$ 10,000).
+- 2017-2019: PhD Post-graduate merit award, University of the Witwatersrand. (US$ 10,000).
+- 2008: Vision Institute of Professionals- Top 10 Student in Kenya's Public Accountancy Exams, 2007.
+
+# Journal Articles
+
+- Karuitha, J. K., & Onyuma, S. O. (2013). Management of Financial Crises: Priorities     for Rebuilding the Financial Architecture in Africa. *African Management             Development Review*, 10(4), 34-49.
+
+- Karuitha, J. K., Onyuma, S. O., & Mugo, R. (2013). Do Stock Splits Affect Ownership     Concentration of Firms Listed at the Nairobi Securities Exchange? *Research          Journal of Finance and Accounting*, 4(15), 105-117.
+
+- Onyuma, S. O., Mugo, R. K., & Karuitha, J. K. (2012). Does Cross-border listing        (still) improve firm financial performance in Eastern Africa?. *Journal of           Business, Economics*, 1(1), 91-109.
+
+# Newspaper Opinion Pieces & Reports
+
+8 newspaper opinion pieces & 3 reports (`https://johnkaruitha.wordpress.com/blog/`). Samples;
+
+- Youth and the Digital Economy in Africa, `The Africa Portal`, July 31, 2020.
+
+- Why FinTech lending could push the poor into debt trap, `Business Daily- Kenya`, April 2, 2019. 
+
+# Conferences and Workshops
+
+Over 20 conferences & workshops (see https://johnkaruitha.wordpress.com/conferences/), the recent are; 
+
+- Nov 2019: *Global development finance*. Johannesburg, South Africa. Paper: “Microfinance and financial inclusion in Africa.”
+- Aug 2019: *Political economy of Africa’s development*, Johannesburg, South Africa. Paper: “Is Micro too Small? Microfinance and Financial Inclusion in Africa.” 
+
+# Hobbies
+
+Swimming & general fitness training; Listening to music; Adventure.
+
+# Referees
+
+- Kalu Ojah, Professor of Finance, Graduate School of Business Administration, University of the Witwatersrand, Johannesburg, South Africa. Phone: +27 117 173 764. Email: kalu.ojah@wits.ac.za. 
+
+- Raphael Kariuki, Head of Region, East Africa, Terre des Hommes, The Netherlands. Phone: +254 722 591 344 / +254 722 209 581. Email: r.kariuki@tdh.nl. 
