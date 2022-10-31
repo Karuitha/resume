@@ -1,0 +1,165 @@
+---
+name: John King'athia
+surname: Karuitha
+position: "Financial Economist | Data Analyst"
+address: "Karatina University, School of Business, P.O. Box 1957-10101, Karatina, Kenya."
+phone: +254 769 552 912
+www: "orcid.org/0000-0002-8204-7034" 
+email: "jkaruitha@karu.ac.ke"
+twitter: kingzz2005
+github: Karuitha
+linkedin: karuitha
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::awesomecv
+header-includes:
+        - \usepackage[labelformat = empty]{caption}
+        - \usepackage{longtable}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# Summary
+Finance and research professional passionate about applying data analytics and machine learning to Business, Economics and Finance. My key attributes include leadership, teamwork, problem-solving, and process improvement in data management. I can train and mentor a team.
+
+Adept at conducting interviews, literature reviews, data management and organisation, data synthesis, data analysis, business analysis, financial analysis and modelling, and communication of results to non-technical stakeholders. Capable of forecasting, inference, and producing reports and dashboards on KPI using statistical techniques like A/B tests, time series and regression analysis. 
+
+# Sofware
+
+Proficient: *Ms Office | R | Python & Pandas | Databases (MySQL, PostgreSQL, Teradata, SQL Server) | Git & GitHub*
+
+Working Knowledge: *Bash | Docker| Stata | Eviews* 
+
+# Key Skills
+
+ - Financial management, budgeting, donor grants management & reporting - USAID / EU/ AMREF.
+ - Research methods in finance (see `www.orcid.org/0000-0002-8204-7034`).
+ - Financial analysis/ Business Analysis/ Data analysis (see `https://github.com/Karuitha?tab=repositories`).
+ - Creative with strong verbal & written communication skills (`see writing samples below`). 
+ - Analytical problem-solver with good people skills & a strong work ethic. 
+ 
+# Languages
+ 
+ - English: Kiswahili: Kikuyu (Full proficiency)
+ 
+# Certifications
+
+```{r}
+library(tidyverse)
+library(kableExtra)
+library(gt)
+
+tribble(~ "Short Courses", ~ " ",
+        "Harvard on EdX: Professional Certificate in Data Science", "MIT on EdX: The Analytics Edge",
+        "Datacamp: Data Scientist with R", "Datacamp: Data Analyst with R",
+        
+        "Emory University on Coursera: Reproducible Templates", "Udemy: Linux Command Line",
+        
+        "Cerified Public Accountant of Kenya", "Certified Information Systems Auditor") %>% 
+        gt() %>% 
+        tab_options(column_labels.hidden = TRUE)
+```
+
+
+# Experience
+
+**2022- Present: Associate Research Fellow, African Centre for the Study of the United States, South Africa**
+
+- Teams to designs data collection instruments and evaluation criteria for the US businesses in Africa awards.
+- Writes articles on US and Africa for publication on the ACSUS website and Africa portal.
+- Edits articles for publication in the Wits ACSUS website and Africa Portal.
+- Performs data analysis and compiles reports using R Markdown and Jupyter Notebooks.
+- Ensures data confidentiality, integrity availability.
+
+**2022 January - April: Macroeconomic Statistician, Sovereign Debt, Tounceflow (Remote from London, UK)**
+
+- Accurately and efficiently gathers sovereign debt data from Central Banks PDF reports for different countries and cleans the data using the R Programming language.
+ - Creates 5 spreadsheets using Microsoft Excel for weekly dissemination of data collected.
+- Gathers, arranges, and corrects research data to create representative graphs and charts highlighting results for presentations.
+
+**2017-2021: Graduate Research Assistant, University of the Witwatersrand, Johannesburg, South Africa.**
+
+- Conducted finance research and completed administrative duties to assist professors with academic pursuits.
+- Gathered, arranged and corrected research data from The IMF, World Bank, MIX Market, BankScope and Bloomberg to create representative graphs and charts highlighting results for presentations.
+- Validated data to check information accuracy and integrity while locating and correcting concerns.
+- Performed statistical, qualitative and quantitative analysis using R, Stata, Eviews, and Ms Excel.
+- Attended seminars and symposiums in Economics, Econometrics, Finance and Statistics.
+
+**2012-Current: Lecturer in Finance, Karatina University, Karatina, Kenya (www.karu.ac.ke).**
+
+- Evaluates and revises lesson plans and course content to achieve student-centred learning.
+- Uses a variety of learning methods and support materials to facilitate the learning process.
+- Oversees student projects, advising on focus, methodology and report generation to meet pre-set standards.
+- Grades assignments according to strict institutional policies hile upholding guidelines for academic integrity.
+- Participates in academic and professional conferences to remain aware of developments in finance.
+- Publishes research articles in refereed journals as part of university research agenda.
+- Participates and leads committees to review old curricula and design new curricula in business education.
+
+**2009 - 2010: Project Manager, NECLI CBO**
+
+- Developed and initiated projects, managed costs, and monitored project performance.
+- Updated operational methods, oversaw accounting procedures in Microsoft Excel, tracked information and compiled data to improve efficiency in project delivery.
+- Reported regularly to donors (European Union, EU, Danish Development Agency DANIDA, and CDTF), the board, and stakeholders on project budget, progress and technical problems.
+- Adhered to budget requirements with planning and consistent expense monitoring while meeting the set milestones.
+
+**2008- 2009: Finance Officer, Twana Twitu Cares**
+
+- Established and enforced controls on revenue and expenses to protect company assets.
+- Monitored budget, revenue and variance trends for US\$300,000 AED/USAID and AMREF grants, regularly apprising CEO and the board of company's financial standing.
+ - Used QuickBooks to prepare monthly reconciliation of bank accounts and take corrective actions on deviations.
+- Verified compliance of financial policies and accounting procedures against USAID regulations.
+
+# Professional Memberships
+
+- 2015 - Current: Information Systems Audit and Control Association (ISACA) Kenya chapter.
+
+# Education
+
+- **PhD in Financial Economics**, *University of the Witwatersrand, Johanneburg, South Africa*.
+- **Master of Business Administration**, *Egerton University, Kenya*.
+- **Bachelor of Education, Arts**, *Egerton University, Kenya*.
+
+# Awards and Prizes
+
+- 2020: Africa Economic Research Consortium (AERC) research grant. (US$ 3,000).
+- 2019: Banking Sector Education & Training Authority (BANKSETA) research grant. (US$10,000).
+- 2018: Bradlow Foundation research grant. (US$ 10,000).
+- 2017-2019: PhD Post-graduate merit award, University of the Witwatersrand. (US$ 10,000).
+- 2008: Vision Institute of Professionals- Top 10 Student in Kenya's Public Accountancy Exams, 2007.
+
+# Journal Articles
+
+- Karuitha, J. K., & Onyuma, S. O. (2013). Management of Financial Crises: Priorities     for Rebuilding the Financial Architecture in Africa. *African Management             Development Review*, 10(4), 34-49.
+
+- Karuitha, J. K., Onyuma, S. O., & Mugo, R. (2013). Do Stock Splits Affect Ownership     Concentration of Firms Listed at the Nairobi Securities Exchange? *Research          Journal of Finance and Accounting*, 4(15), 105-117.
+
+- Onyuma, S. O., Mugo, R. K., & Karuitha, J. K. (2012). Does Cross-border listing        (still) improve firm financial performance in Eastern Africa?. *Journal of           Business, Economics*, 1(1), 91-109.
+
+# Newspaper Opinion Pieces & Reports
+
+8 newspaper opinion pieces & 3 reports (`https://johnkaruitha.wordpress.com/blog/`). Samples;
+
+- Youth and the Digital Economy in Africa, `The Africa Portal`, July 31, 2020.
+
+- Why FinTech lending could push the poor into debt trap, `Business Daily- Kenya`, April 2, 2019. 
+
+# Conferences and Workshops
+
+Over 20 conferences & workshops (see https://johnkaruitha.wordpress.com/conferences/), the recent are; 
+
+- Nov 2019: *Global development finance*. Johannesburg, South Africa. Paper: “Microfinance and financial inclusion in Africa.”
+- Aug 2019: *Political economy of Africa’s development*, Johannesburg, South Africa. Paper: “Is Micro too Small? Microfinance and Financial Inclusion in Africa.” 
+
+# Hobbies
+
+Swimming & general fitness training; Listening to music; Adventure.
+
+# Referees
+
+- Kalu Ojah, Professor of Finance, Graduate School of Business Administration, University of the Witwatersrand, Johannesburg, South Africa. Phone: +27 117 173 764. Email: kalu.ojah@wits.ac.za 
+
+- Raphael Kariuki, Head of Region, East Africa, Terre des Hommes, The Netherlands. Phone: +254 722 591 344 / +254 722 209 581. Email: r.kariuki@tdh.nl 
+
+- Stephen Macharia, Head of Department, Business & Economics, Karatina University, Kenya. Phone: +254 722 332 381. Email: smuriu@karu.ac.ke

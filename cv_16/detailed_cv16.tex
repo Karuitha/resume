@@ -1,0 +1,186 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Twenty Seconds Resume/CV
+% LaTeX Template
+% Version 1.1 (8/1/17)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Carmine Spagnuolo (cspagnuolo@unisa.it) with major modifications by 
+% Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% The MIT License (see included LICENSE file)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[letterpaper]{twentysecondcv} % a4paper for A4
+
+%----------------------------------------------------------------------------------------
+%	 PERSONAL INFORMATION
+%----------------------------------------------------------------------------------------
+
+% If you don't need one or more of the below, just remove the content leaving the command, e.g. \cvnumberphone{}
+
+\profilepic{my_photo.png} % Profile picture
+
+\cvname{John Karuitha} % Your name
+\cvjobtitle{Finance and Data Analysis Professional} % Job title/career
+
+\cvdate{01 September, 2021} % Date of birth
+\cvaddress{Karatina, Kenya} % Short address/location, use \newline if more than 1 line is required
+\cvnumberphone{+254 736 917 717} % Phone number
+\cvsite{www.linkedin.com/in/karuitha/} % Personal website
+\cvmail{diakingathia2005@gmail.com} % Email address
+\ORCID{0000-0002-8204-7034}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	 ABOUT ME
+%----------------------------------------------------------------------------------------
+
+\aboutme{Proficient researcher in financial economics providing data-driven,
+action-oriented solutions to business problems through data analysis
+and business research. With the ability to deliver insights, interrogate
+data, and communicate results to a non-technical audience and
+stakeholders. Adept at conducting interviews, literature reviews and
+data synthesis and analysis. Well-versed in creating efficient systems to
+organize and manage data. Capable of providing valuable insights
+through forecasting/ prediction, producing reports and dashboards on
+KPI by applying statistical techniques such as A/B tests, inference, time
+series or regression analysis. With the ability to lead, train and mentor
+team members.} % To have no About Me section, just remove all the text and leave \aboutme{}
+
+%----------------------------------------------------------------------------------------
+%	 SKILLS
+%----------------------------------------------------------------------------------------
+
+% Skill bar section, each skill must have a value between 0 an 6 (float)
+\skills{{R Programming/5},{Financial Management/5},{Ms Excel/3.5},{Git and Github/3}, {SQL/3},{Bash/2},{Stata/2}}
+
+%------------------------------------------------
+
+% Skill text section, each skill must have a value between 0 an 6
+\skillstext{{Team Player/5},{Analytical/6}}
+
+%----------------------------------------------------------------------------------------
+
+\makeprofile % Print the sidebar
+
+%----------------------------------------------------------------------------------------
+%	 INTERESTS
+%----------------------------------------------------------------------------------------
+
+\section{Interests}
+
+Swimming and Fitness Training. Music. IT. Research. R Programming.
+
+%----------------------------------------------------------------------------------------
+%	 EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\section{Experience}
+
+\begin{twenty} % Environment for a list with descriptions
+\twentyitem{Since 2022:}{Macroeconomic Statistician: Sovereign Debt.}{Trounceflow.}{1. Accurately and efficiently gathers sovereign debt
+data from Central Banks PDF reports for different countries and cleans the data using the R Programming language. 
+
+2. Creates 5 spreadsheets using Microsoft Excel for weekly dissemination of data collected.
+
+3. Gathers, arranges, and corrects research data to create representative graphs and charts highlighting
+results for presentations.}
+	\twentyitem{Since 2017:}{PhD Candidate \& Research Assistant.}{Wits University, Johannesburg.}{Collects data from APIs and clean and analyse data. I am also a research associate at WITS-African Center for the Study of the USA.}
+	\twentyitem{Since 2012:}{Tutorial Fellow.}{Karatina University, Kenya.}{Teaches and examines finance and accounting courses, develop curricula and published three (3) research papers.}
+	\twentyitem{2009-10:}{Project Manager- Environment and Livelihoods.}{NECLI, CBO.}{Led the environment and livelihoods project funded by EU \& DANIDA via Community Development Trust Fund (CDTF).}
+\twentyitem{2008-09:}{Finance Officer.}{Twana Twitu cares.}{Headed the Finance Department for a children's rights project funded by USAID (through AED) and AMREF.}
+	%\twentyitem{<dates>}{<title>}{<location>}{<description>}
+\end{twenty}
+
+%----------------------------------------------------------------------------------------
+%	 CERTIFICATIONS
+%----------------------------------------------------------------------------------------
+
+\section{Certifications}
+
+\begin{twentyshort} % Environment for a short list with no descriptions
+        \twentyitemshort{2021:}{Duke University: Excel to MySQL: Analytics Techniques for Business.}
+        \twentyitemshort{2021:}{DataCamp: Data Scientist with R.}
+         \twentyitemshort{2021:}{DataCamp: Data Analyst with R.}
+        \twentyitemshort{2021:}{Emory Univ.: Reproducible Templates for Analysis \& Dissemination.}
+	\twentyitemshort{2021:}{Harvard University on Edx: Professional Certificate in Data Science.}
+	\twentyitemshort{2020:}{MIT on Edx: The Analytics Edge- Data Analysis Using R.}
+	\twentyitemshort{2020:}{Udemy: R Programming: Advanced Analytics in R for Data Science.}
+	\twentyitemshort{2020:}{Udemy: Data Science and Machine Learning Bootcamp with R.}
+	\twentyitemshort{2009:}{Certified Information Systems Auditor.}
+	\twentyitemshort{2008:}{Certified Public Accountant of Kenya.}
+	%\twentyitemshort{<dates>}{<title/description>}
+\end{twentyshort}
+
+%----------------------------------------------------------------------------------------
+%	 AWARDS
+%----------------------------------------------------------------------------------------
+
+\section{Awards}
+
+\begin{twentyshort} % Environment for a short list with no descriptions
+	\twentyitemshort{2018-21:}{Research (US\$): AERC (3,000); BankSeta \& Bradlow (20,000).}
+	\twentyitemshort{2017-21:}{Post-Graduate Merit Award, Wits University (US\$10,000).}
+\twentyitemshort{2007-08:}{Top 5 student in Kenya, CPA Section 1 \& 2 Examinations.}
+	%\twentyitemshort{<dates>}{<title/description>}
+\end{twentyshort}
+
+%----------------------------------------------------------------------------------------
+%	 EDUCATION
+%----------------------------------------------------------------------------------------
+
+\section{Education}
+
+\begin{twenty} % Environment for a list with descriptions
+	\twentyitem{Since 2017:}{Ph.D. {\normalfont Candidate in Finance.}}{Wits University, South Africa.}{\emph{Thesis: Microfinance Transformation.}}
+	\twentyitem{2004-06:}{MBA in Finance.}{Egerton University, Kenya.}{}
+	\twentyitem{1997-01:}{B.Ed: Math \& Economics.}{Egerton University, Kenya.}{}
+	%\twentyitem{<dates>}{<title>}{<location>}{<description>}
+\end{twenty}
+
+%----------------------------------------------------------------------------------------
+
+%	 OTHER INFORMATION
+%----------------------------------------------------------------------------------------
+
+\section{Other information}
+
+\subsection{Media and Research Publications}
+
+- 7 articles for the Business Daily, Daily \& Sunday Nation, and Africa Portal. Available on my Linkedin Profile (see side bar). 
+
+- 3 research articles in refereed journals available on my Linkedin profile. 
+
+%----------------------------------------------------------------------------------------
+%	 SECOND PAGE EXAMPLE
+%----------------------------------------------------------------------------------------
+
+\newpage % Start a new page
+
+%\makeprofile % Print the sidebar
+
+\section{Other information}
+
+\subsection{Review}
+
+\section{Other information}
+
+\subsection{Referees}
+
+References available upon request
+
+%----------------------------------------------------------------------------------------
+
+\end{document} 

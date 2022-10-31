@@ -1,0 +1,30 @@
+---
+title: "My CV"
+author: "John Karuitha"
+date: "5/20/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+```{r}
+library(datadrivencv)
+
+datadrivencv::use_datadriven_cv(
+  full_name = "John King'athia Karuitha",
+  data_location = "https://docs.google.com/spreadsheets/d/1GbEnk5a5cUc3W9EApXn2xa3w2p5RmxTZYbi3L71GJts/edit#gid=0",
+  pdf_location = "./my_data_cv/datacv.pdf",
+  html_location = "./my_data_cv/data_cv/",
+  source_location = "https://github.com/Karuitha/cv",
+  which_files = "all",
+  output_dir = getwd(),
+  create_output_dir = FALSE,
+  use_network_logo = TRUE,
+  open_files = TRUE
+)
+```
+

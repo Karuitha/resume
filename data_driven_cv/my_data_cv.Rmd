@@ -1,0 +1,243 @@
+---
+title: "John Karuitha's Resume"
+author: "John King'athia Karuitha"
+date: "`r format(Sys.Date(), '%A %B %d, %Y')`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    # Add a CSS file to customize
+    #css: overide.css
+# Uncomment the line below to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Lijia Yu](my_photo.png){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> diakingathia2005@gmail.com
+- <i class="fa fa-github"></i> [github.com/Karuitha](https://github.com/Karuitha)
+- <i class="fa fa-phone"></i> +254 736 917 717
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Financial management & donor grants management & reporting - USAID / EU/ AMREF.
+
+- Data analysis in R.
+
+- Data analysis in Ms Excel, Eviews and Stata with SQL basics.
+
+- Creative with strong verbal & written communication skills.
+
+- Analytical problem-solver with good people skills & a strong work ethic.
+
+Hobbies {#Hobbies}
+--------------------------------------------------------------------------------
+
+Swimming & Fitness, Listening to Music, Adventure.
+
+Memberships {#Professional}
+--------------------------------------------------------------------------------
+
+2015 - : [ISACA](https://www.isaca.org/) Kenya chapter.
+
+
+Main
+================================================================================
+
+John King'athia Karuitha {#title}
+--------------------------------------------------------------------------------
+
+### Searching for a Data Analysis Position in the Finance Industry
+
+I like working with data and embrace continuous learning and looking for a position in business research and data analytics. Typical roles include forecasting, data visualization, developing dashboards, and analysing data for A/B tests that call for both technical and communication skills.
+
+Research & Teaching Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Research Associate
+
+African Centre for the Study of the USA. 
+
+Johannesburg, South Africa.
+
+2019 - Current
+
+- Teamed to write two reports for the Youth Bridge Trust (YBT) titled `Youth, ` and `Youth, Women and Agriculture in Africa`. 
+- Wrote 4 articles in the `Africa Portal` on Youth, Women, the digital economy, and agriculture. See samples in () section below.  
+
+### Graduate Research Assistant
+
+University of the Witwatersrand.
+
+Johannesburg, South Africa.
+
+2017 - Current.
+
+- Collected and cleaned data from Bloomberg, IMF, and the World Bank.
+- Assisted in grading examinations at the Wits Business School. 
+
+### Tutorial Fellow, Finance and Accounting
+
+Karatina University.
+
+Karatina, Kenya.
+
+2012 - Current
+
+- Collaborate in teaching business finance and developing curricula.
+- Works in a team that has written 3 articles in refereed journals.
+- Coordinated exams for 2 years and acted as a head of department.
+
+### Research Assistant
+
+Kenya Institute of Public Policy Research and Analysis (KIPPRA).
+
+Nairobi, Kenya.
+
+2006 - 2006
+
+- Collected primary data for the EU-Democratic Governance Support Program (DGSP) on public awareness and involvement in GoK devolved public funds in Nakuru District (now a County), Kenya. 
+
+  
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Project Manager
+
+NECLI CBO.
+
+Kinamba, Laikipia County, Kenya.
+
+2009 - 2010.
+
+- Led the Implementation of a 2 year US$200,000 environmental and livelihoods project.
+- Drew project financial and narrative reports and budgets in EU/DANIDA guidelines.
+
+### Finance Officer
+
+Twana Twitu Cares.
+
+Nairobi/ Mwingi, Kenya.
+
+2008 - 2009
+
+- Managed finances for a US$150,000 Orphans & Vulnerable Children (OVC) support project.
+- Drew project financial reports and budgets following USAID/AED/AMREF formats.
+
+Certifications {data-icon=certificate data-concise=true}
+--------------------------------------------------------------------------------
+
+### [Reproducible Templates for Analysis and Dissemination](https://www.coursera.org/account/accomplishments/certificate/HHFHASQ2XKZS).
+
+Emory University (Via Coursera)
+
+Online.
+
+June-2021
+
+### [Professional Certificate in Data Science](https://credentials.edx.org/credentials/6f9f9fb5eee84a4c9ba3d62f4ded231b/).
+
+Harvard University (HarvardX on EdX)
+
+Online.
+
+Jan-2021
+
+### [The Analytics Edge](https://courses.edx.org/certificates/0348a316d7e34fa3be5541880f47e005).
+
+Massachussets Institute of Technology (MITx on Edx)
+
+Online.
+
+Dec-2020
+
+### Certified Public Accountant of Kenya
+
+KASNEB
+
+Nairobi, Kenya.
+
+June- 2008
+
+### [Certified Information Systems Auditor](https://www.credly.com/badges/0820daf1-917a-42d1-ba83-d1a3c3ed39f6)
+
+ISACA
+
+Nairobi, Kenya.
+
+June- 2009
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of the Witwatersrand, Johannesburg
+
+PhD in Financial Economics.
+
+Johannesburg, South Africa.
+
+2017- Current
+
+Thesis: Transformation of Microfinance Institutions in Africa.
+
+### Egerton University
+
+MBA in Finance & BEd (arts), Maths/Economics.
+
+Nakuru, Kenya.
+
+2004-06/ 1997-01
+
+MBA Project: Effects of Stock Splits on Share Prices and Stock Market Capitalization: The Case of EABL and KENOL.
+
+Selected Publications and Posters {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Onyuma, S. O., Mugo, R. K., & Karuiya, J. K. (2012). Does Cross-border listing (still) improve firm financial performance in Eastern Africa?. *Journal of business economics and finance*, 1(1), 92-109.
+
+N/A
+
+N/A
+
+N/A
+
+
+### Karuitha, J. K., & Onyuma, S. O. (2013). Management of Financial Crises: Priorities for Rebuilding the Financial Architecture in Africa. *African Management Development Review*, 10(4), 34-49.
+
+N/A
+
+N/A
+
+N/A
+
+
+
+Aside
+================================================================================
+
+Awards & Prizes {#Awards}
+--------------------------------------------------------------------------------
+
+- 2020: AERC grant US$3,000.
+
+- 2019: BANKSETA grant US$10,000.
+
+- 2018: Bradlow grant US$10,000.
+
+- 2017-2019: PMA, Wits University US$10,000.
+
+- 2008: Top 10 in CPA Exams, 2007.
+
+
