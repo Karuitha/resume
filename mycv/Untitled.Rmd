@@ -67,11 +67,11 @@ tribble(~ "Short Courses", ~ " ",
 
 **2022- Present: Associate Research Fellow, African Centre for the Study of the United States, South Africa**
 
-- Teams to designs data collection instruments and evaluation criteria for the US businesses in Africa awards.
+- Teams to design data collection instruments and evaluation criteria for the US businesses in Africa awards.
 - Writes articles on US and Africa for publication on the ACSUS website and Africa portal.
 - Edits articles for publication in the Wits ACSUS website and Africa Portal.
 - Performs data analysis and compiles reports using R Markdown and Jupyter Notebooks.
-- Ensures data confidentiality, integrity availability.
+- Ensures data confidentiality, integrity, and availability.
 
 **2022 January - April: Macroeconomic Statistician, Sovereign Debt, Tounceflow (Remote from London, UK)**
 
