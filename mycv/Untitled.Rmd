@@ -3,7 +3,7 @@ name: John King'athia
 surname: Karuitha
 position: "Financial Economist | Data Analyst"
 address: "Karatina University, School of Business, P.O. Box 1957-10101, Karatina, Kenya."
-phone: +254 769 552 912
+phone: +254 736 917 717
 www: "orcid.org/0000-0002-8204-7034" 
 email: "jkaruitha@karu.ac.ke"
 twitter: kingzz2005
@@ -28,7 +28,7 @@ Adept at conducting interviews, literature reviews, data management and organisa
 
 # Sofware
 
-Proficient: *Ms Office | R | Python & Pandas | Databases (MySQL, PostgreSQL, Teradata, SQL Server) | Git & GitHub*
+Proficient: *Ms Office | R | Python3 | Pandas | Databases (MySQL, PostgreSQL, Teradata, SQL Server) | Git | GitHub*
 
 Working Knowledge: *Bash | Docker| Stata | Eviews* 
 
