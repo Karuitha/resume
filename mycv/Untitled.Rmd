@@ -8,7 +8,7 @@ www: "orcid.org/0000-0002-8204-7034"
 email: "jkaruitha@karu.ac.ke"
 twitter: kingzz2005
 github: Karuitha
-linkedin: karuitha
+linkedin: Karuitha
 date: "`r format(Sys.time(), '%B %Y')`"
 output: vitae::awesomecv
 header-includes:
@@ -28,7 +28,7 @@ Adept at conducting interviews, literature reviews, data management and organisa
 
 # Sofware
 
-Proficient: *Ms Office | R | Python3 | Pandas | Databases (MySQL, PostgreSQL, Teradata, SQL Server) | Git | GitHub*
+Proficient: *Ms Office | R | Python3 | Pandas | Databases (MySQL, PostgreSQL, Teradata, SQL Server) | Git | GitHub | Tableau*
 
 Working Knowledge: *Bash | Docker| Stata | Eviews* 
 
@@ -52,6 +52,7 @@ library(kableExtra)
 library(gt)
 
 tribble(~ "Short Courses", ~ " ",
+        "UC Davis: Data Visualization with Tableau", "",
         "Harvard on EdX: Professional Certificate in Data Science", "MIT on EdX: The Analytics Edge",
         "Datacamp: Data Scientist with R", "Datacamp: Data Analyst with R",
         
