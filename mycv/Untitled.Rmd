@@ -18,13 +18,26 @@ header-includes:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
-library(vitae)
+
+if(!require(pacman)){
+        install.packages("pacman")
+}
+
+pacman::p_load(tidyverse, kableExtra, gt, vitae)
 ```
 
 # Summary
-Finance and research professional passionate about applying data analytics and machine learning to Business, Economics and Finance. My key attributes include leadership, teamwork, problem-solving, and process improvement in data management. I can train and mentor a team.
+Finance and research professional passionate about applying data analytics and machine learning to Business, Economics and Finance. 
 
-Adept at conducting interviews, literature reviews, data management and organisation, data synthesis, data analysis, business analysis, financial analysis and modelling, and communication of results to non-technical stakeholders. Capable of forecasting, inference, and producing reports and dashboards on KPI using statistical techniques like A/B tests, time series and regression analysis. 
+I enjoy coding. 
+
+Proficient in Ms Excel, R, Python, MySQL, PostgreSQL, Teradata, SQL Server, Git, and GitHub, and Tableau. Sound knowledge of Bash, Docker, Stata and E-views. 
+
+Adept at conducting interviews, literature reviews, managing and organizing data, data synthesis and analysis, financial modelling, and communicating results to non-technical stakeholders. 
+
+Capable of forecasting, inference, and producing reports and dashboards on KPI using statistical techniques like A/B tests, time series and regression analysis. 
+
+Able to lead, train and mentor team members.
 
 # Sofware
 
@@ -38,7 +51,7 @@ Working Knowledge: *Bash | Docker| Stata | Eviews*
  - Research methods in finance (see `www.orcid.org/0000-0002-8204-7034`).
  - Financial analysis/ Business Analysis/ Data analysis (see `https://github.com/Karuitha?tab=repositories`).
  - Creative with strong verbal & written communication skills (`see writing samples below`). 
- - Analytical problem-solver with good people skills & a strong work ethic. 
+ - Problem-solver with good people skills & a strong work ethic. 
  
 # Languages
  
@@ -47,9 +60,6 @@ Working Knowledge: *Bash | Docker| Stata | Eviews*
 # Certifications
 
 ```{r}
-library(tidyverse)
-library(kableExtra)
-library(gt)
 
 tribble(~ "Short Courses", ~ " ",
         "UC Davis: Data Visualization with Tableau", "",
@@ -65,6 +75,21 @@ tribble(~ "Short Courses", ~ " ",
 
 
 # Experience
+
+**May 2023 - Present: Data Scientist (Remote), Nuit Analytics, London, United Kingdom**
+
+- Works closely with business stakeholders to understand business requirements and develop KPIs and metrics.
+
+- Conducts data quality assurance using SQL and other tools to ensure accuracy, consistency, and completeness of data.
+
+- Develops data transformations and manipulations using R and Python to clean and transform large and complex data sets.
+
+- Designs and develops statistical models and machine learning algorithms using R and Python to uncover patterns and trends in data.
+
+- Builds interactive dashboards and reports using Tableau and Shiny to communicate insights to business stakeholders.
+
+- Develops and maintains data pipelines using Python and other tools to ensure timely and efficient data processing.
+
 
 **2022- Present: Associate Research Fellow, African Centre for the Study of the United States, South Africa**
 
