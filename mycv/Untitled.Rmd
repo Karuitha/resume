@@ -41,7 +41,7 @@ Able to lead, train and mentor team members.
 
 # Sofware
 
-Proficient: *Ms Office | R | Python3 | Pandas | Databases (MySQL, PostgreSQL, Teradata, SQL Server) | Git | GitHub | Tableau*
+Proficient: *Ms Office | R | Python3 | Pandas | SQL & Databases (MySQL, PostgreSQL, Teradata, SQL Server)|Google BigQuery | Git | GitHub | Tableau*
 
 Working Knowledge: *Bash | Docker| Stata | Eviews* 
 
